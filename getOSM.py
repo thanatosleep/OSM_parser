@@ -10,6 +10,7 @@ out body;
 out skel qt;
 """
 #Запрос составляется по координатам, в данном случае здесь Ольхонский район
+#Можно указать дороги тоже
 
 response = requests.get(overpass_API, params={'data': overpass_command})
 data = response.json()
