@@ -22,4 +22,4 @@ print("Файл успешно сохранен")
 #ЖИЛЬЕ
 #hotel, camp_site(кемпинги), guest_house(не входит в hotel), wilderness_hut(дикие хижины), chalet(типа коттеджи)
 #ОБЪЕКТЫ ИНТЕРЕСА
-#attraction(природные объекты), information(доски, мб указатели), viewpoint(обзорки, кинотеатр один нашел даже), picnic_site(место для пикника)
+#attraction(природные объекты), information(доски, мб указатели), viewpoint(обзорки, кинотеатр один нашел даже), picnic_site(место для пикника), artwork, 
